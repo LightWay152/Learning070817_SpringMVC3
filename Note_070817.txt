@@ -1,0 +1,5 @@
+﻿SpringMVC3 project
+
+- Practice Spring MVC framework
+- Learn some new tags to customize layout
+- Demo CRUD for product with category foreign key
